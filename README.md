@@ -1,9 +1,9 @@
-## react-template-beamworks
+## React-Template-Beamworks
 
 - For BeamWorks Front-end Team
 - React + TypeScript + Vite
-- Version
-  > - v.0.0.1 (2023.12.21)
+- Versioning
+  > - v.0.0.1 (2023.12.21) [node - v18.17.1]
 - Contributor
   > - Sebyeok Jeong
 
