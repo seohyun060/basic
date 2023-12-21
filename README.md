@@ -14,7 +14,7 @@
 - yarn dev
 - 로컬 저장소 .git 파일 삭제 (rm -rf .git)
 - git init
-- git remote add origin [새로운 레포지토리 주소]
+- git remote add origin [New Repository URL]
 
 ## 주요 사용 라이브러리
 
