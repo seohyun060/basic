@@ -150,7 +150,7 @@ import imageSrc from '@images/1.png';
 
 ## 네이밍
 
-- 기본적으로 변수명은 camelCase 사용.
+- 기본적으로 변수명은 camelCase 사용. 컴포넌트 폴더 명은 PascalCase 사용.
 - 변수명은 컴포넌트 및 함수의 특징을 내포하고 있어야 함.
 - interface의 경우 IUser 와 같은 I로 시작하는 변수명 사용 권장.
 - styled-components를 이용하여 만든 컴포넌트의 경우 객체 명은 SGlobalHeader 와 같은 S로 시작하는 변수명 사용 권장.
